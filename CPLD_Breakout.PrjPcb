@@ -152,6 +152,14 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CPLD_Breakout\Pick Place for CPLD_Breakout.csv
 DItemRevisionGUID=
 
+[Parameter1]
+Name=ProjectRevision
+Value=V1
+
+[Parameter2]
+Name=ProjectDescription
+Value=XC2C64A CPLD Breakout
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -161,6 +169,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
