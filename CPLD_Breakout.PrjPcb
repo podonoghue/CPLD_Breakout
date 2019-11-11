@@ -153,12 +153,12 @@ DocumentPath=Project Outputs for CPLD_Breakout\Pick Place for CPLD_Breakout.csv
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=V1
-
-[Parameter2]
 Name=ProjectDescription
 Value=XC2C64A CPLD Breakout
+
+[Parameter2]
+Name=ProjectRevision
+Value=V1
 
 [Configuration1]
 Name=Sources
