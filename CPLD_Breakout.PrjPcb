@@ -145,16 +145,24 @@ DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
+DocumentPath=Project Outputs for CPLD_Breakout\Design Rule Check - CPLD_Breakout.html
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for CPLD_Breakout\Pick Place for CPLD_Breakout.csv
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectDescription
-Value=XC2C64A CPLD Breakout
+Name=
+Value=
 
 [Parameter2]
 Name=ProjectRevision
-Value=V1
+Value=V2
+
+[Parameter3]
+Name=ProjectDescription
+Value=XC2C64A CPLD Breakout
 
 [Configuration1]
 Name=Sources
