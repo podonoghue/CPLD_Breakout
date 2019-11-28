@@ -7,4 +7,4 @@ From  : Variant [[No Variations]] of PCB Document [CPLD_Breakout.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 3:50:13 PM On 11/11/2019
+Finished Output Generation At 1:44:21 PM On 26/11/2019

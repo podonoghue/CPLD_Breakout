@@ -2,15 +2,66 @@
 FileName = CPLD_Breakout.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : CPLD_Breakout.GBO
+Generating : Keep-Out Layer
+      File : CPLD_Breakout.GKO
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D13
-    D14
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CPLD_Breakout.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : CPLD_Breakout.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
@@ -30,90 +81,7 @@ Used DCodes :
     D16
     D17
     D18
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : CPLD_Breakout.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : CPLD_Breakout.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : CPLD_Breakout.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : CPLD_Breakout.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
 *************************************************************
 
 *************************************************************
@@ -128,9 +96,49 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CPLD_Breakout.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
     D26
     D27
     D28
     D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CPLD_Breakout.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D15
 *************************************************************
 
