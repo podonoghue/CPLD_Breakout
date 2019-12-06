@@ -88,64 +88,74 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CPLD_Breakout\Bill of Materials-CPLD_Breakout.xls
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueID=13B418DF-D7F6-495B-80D2-81607E708CB7
+Description=Simple JTAG header
+AllowFabrication=1
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=P6|UniqueId=\VALYIELL|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
-[GeneratedDocument2]
+[ProjectVariant2]
+UniqueID=1970FEC0-C696-43B0-8E03-9CA6AAC6A0F9
+Description=Boxed JTAG header
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=P3|UniqueId=\KACYKPZW|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.REP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for CPLD_Breakout\Pick Place for CPLD_Breakout.csv
 DItemRevisionGUID=
 
 [Parameter1]
@@ -154,7 +164,7 @@ Value=XC2C64A CPLD Breakout
 
 [Parameter2]
 Name=ProjectRevision
-Value=V2
+Value=V2.2
 
 [Configuration1]
 Name=Sources

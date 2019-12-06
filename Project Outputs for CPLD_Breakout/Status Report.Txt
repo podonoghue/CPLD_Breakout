@@ -1,10 +1,10 @@
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [[No Variations]] of PCB Document [CPLD_Breakout.PcbDoc]
-   Generated File[Pick Place for CPLD_Breakout.csv]
+From  : Variant [Simple JTAG header] of PCB Document [CPLD_Breakout.PcbDoc]
+   Generated File[Pick Place for CPLD_Breakout(Simple JTAG header).csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:44:21 PM On 26/11/2019
+Finished Output Generation At 11:00:22 PM On 4/12/2019
