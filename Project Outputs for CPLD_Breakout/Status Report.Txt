@@ -7,4 +7,4 @@ From  : Variant [Simple JTAG header] of PCB Document [CPLD_Breakout.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:00:22 PM On 4/12/2019
+Finished Output Generation At 1:07:26 AM On 7/12/2019
