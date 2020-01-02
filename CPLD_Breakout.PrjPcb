@@ -90,7 +90,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=13B418DF-D7F6-495B-80D2-81607E708CB7
-Description=Simple JTAG header
+Description=Simple JTAG header (right-angle)
 AllowFabrication=1
 ParameterCount=0
 VariationCount=1
@@ -98,6 +98,46 @@ Variation1=Designator=P6|UniqueId=\VALYIELL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
+UniqueID=36153B2A-D99E-4580-A5CA-96B2ED20C77B
+Description=Simple JTAG header (straight)
+AllowFabrication=1
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=P6|UniqueId=\VALYIELL|Kind=1|AlternatePart= 
+Variation2=Designator=P3|UniqueId=\KACYKPZW|Kind=2|AlternatePart==Description|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=MyLibrary.IntLib|AltLibLink_SymbolReference=Header 1x6H|AltLibLink_DesignItemID=Header 1x6|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=MyLibrary.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=HDR1X6S|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue==Description
+ParamDesignator1=P3
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=P3
+ParamVariation3=ParameterName=Description|VariantValue=Header, 6-Pin
+ParamDesignator3=P3
+ParamVariation4=ParameterName=Farnell PN|VariantValue= 
+ParamDesignator4=P3
+ParamVariation5=ParameterName=Footprint|VariantValue=HDR1X6S
+ParamDesignator5=P3
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator6=P3
+ParamVariation7=ParameterName=LatestRevisionDate|VariantValue=17-Jul-2002
+ParamDesignator7=P3
+ParamVariation8=ParameterName=LatestRevisionNote|VariantValue=Re-released for DXP Platform.
+ParamDesignator8=P3
+ParamVariation9=ParameterName=LCSC|VariantValue=*
+ParamDesignator9=P3
+ParamVariation10=ParameterName=Library Reference|VariantValue=Header 1x6
+ParamDesignator10=P3
+ParamVariation11=ParameterName=PCB3D|VariantValue= 
+ParamDesignator11=P3
+ParamVariation12=ParameterName=Pin Info|VariantValue= 
+ParamDesignator12=P3
+ParamVariation13=ParameterName=Publisher|VariantValue=Altium Limited
+ParamDesignator13=P3
+ParamVariation14=ParameterName=Signal Integrity|VariantValue=Connector
+ParamDesignator14=P3
+ParamVariation15=ParameterName=Simulation|VariantValue= 
+ParamDesignator15=P3
+ParamVariationCount=15
+
+[ProjectVariant3]
 UniqueID=1970FEC0-C696-43B0-8E03-9CA6AAC6A0F9
 Description=Boxed JTAG header
 AllowFabrication=0
@@ -106,73 +146,13 @@ VariationCount=1
 Variation1=Designator=P3|UniqueId=\KACYKPZW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for CPLD_Breakout\CPLD_Breakout.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for CPLD_Breakout\Design Rule Check - CPLD_Breakout.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=
-Value=
+Name=ProjectDescription
+Value=XC2C64A CPLD Breakout
 
 [Parameter2]
 Name=ProjectRevision
 Value=V3
-
-[Parameter3]
-Name=ProjectDescription
-Value=XC2C64A CPLD Breakout
 
 [Configuration1]
 Name=Sources
