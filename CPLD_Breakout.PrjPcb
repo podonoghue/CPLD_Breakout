@@ -88,6 +88,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=CPLD_Breakout_Jig.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BRLMPXIH
+
+[Document5]
+DocumentPath=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GIXYRFMC
+
 [ProjectVariant1]
 UniqueID=13B418DF-D7F6-495B-80D2-81607E708CB7
 Description=Simple JTAG header (right-angle)
@@ -145,6 +179,10 @@ ParameterCount=0
 VariationCount=1
 Variation1=Designator=P3|UniqueId=\KACYKPZW|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CPLD_Breakout\Design Rule Check - CPLD_Breakout.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectDescription
