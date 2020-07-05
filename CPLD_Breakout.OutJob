@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=CPLD_Breakout.OutJob
+Name=
 Description=
 TargetOutputMedium=Straight PCB
 VariantName=Simple JTAG header
@@ -56,7 +56,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB Print
 OutputName2=PCB Prints
 OutputCategory2=Documentation
-OutputDocumentPath2=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath2=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -131,7 +131,7 @@ Configuration3_Item6=Comment=171|Description=179|Designator=202|Footprint=191|Li
 OutputType4=Gerber
 OutputName4=Gerber Files
 OutputCategory4=Fabrication
-OutputDocumentPath4=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath4=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -146,7 +146,7 @@ Configuration4_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType5=NC Drill
 OutputName5=NC Drill Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath5=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName5=
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -161,7 +161,7 @@ Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType6=Pick Place
 OutputName6=Generates pick and place files
 OutputCategory6=Assembly
-OutputDocumentPath6=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath6=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -176,7 +176,7 @@ Configuration6_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 OutputType7=PDF3D
 OutputName7=PDF3D
 OutputCategory7=Documentation
-OutputDocumentPath7=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath7=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName7=
 OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
@@ -192,7 +192,7 @@ Configuration7_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|S
 OutputType8=PCB 3D Print
 OutputName8=PCB 3D Print
 OutputCategory8=Documentation
-OutputDocumentPath8=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath8=CPLD_Breakout.Pcb_Straight.PcbDoc
 OutputVariantName8=
 OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
@@ -208,7 +208,7 @@ Configuration8_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=21550001|View
 OutputType9=Gerber
 OutputName9=Gerber Files - Jig
 OutputCategory9=Fabrication
-OutputDocumentPath9=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath9=CPLD_Breakout_Jig.PcbDoc
 OutputVariantName9=
 OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
@@ -223,7 +223,7 @@ Configuration9_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType10=NC Drill
 OutputName10=NC Drill Files - Jig
 OutputCategory10=Fabrication
-OutputDocumentPath10=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+OutputDocumentPath10=CPLD_Breakout_Jig.PcbDoc
 OutputVariantName10=
 OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0

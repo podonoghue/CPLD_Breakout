@@ -1,18 +1,17 @@
 Altium Designer Pick and Place Locations
-C:\Users\podonoghue\Documents\Development\CPLD_Breakout\CPLD_Breakout_V3 3-01-2020 12-04-30 AM\Pick Place for CPLD_Breakout.csv
+C:\Users\podonoghue\Documents\Development\CPLD_Breakout\CPLD_Breakout_V3_Straight 29-01-2020 4-45-50 PM\Pick Place for CPLD_Breakout.Pcb_Straight.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       03/01/20
-Time:       00:04
-Revision:   e668f539777eba414047e750ac376194c0dbb431
+Date:       29/01/20
+Time:       16:46
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mm
 
 "Designator","Footprint","Center-X(mm)","Center-Y(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Layer","Rotation"
-"P6","HEADER_2X7_2MM","1.2700","8.8900","1.2700","8.8900","2.2700","2.8900","TopLayer","90"
-"P3","HDR1X6H","6.4770","8.8900","6.4770","15.2400","6.4770","15.2400","TopLayer","270"
+"P3","HDR1X6S","6.4770","8.8900","6.4770","15.2400","6.4770","15.2400","TopLayer","270"
 "R3","CR1608-0603","16.5608","10.6680","16.5608","10.6680","17.4108","10.6680","TopLayer","180"
 "D1","LED1608-0603-RED","16.5608","11.9126","16.5608","11.9126","17.4108","11.9126","TopLayer","360"
 "D2","SOD-123","16.7894","8.7884","16.7894","8.7884","15.1494","8.7884","TopLayer","180"

@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BRLMPXIH
 
 [Document5]
-DocumentPath=CPLD_Breakout.Pcb_StraightDoc.PcbDoc
+DocumentPath=CPLD_Breakout.Pcb_Straight.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
