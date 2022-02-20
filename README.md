@@ -14,4 +14,6 @@ Features:
 * Fixed 3.3V I/O
 * All pins are numbered or labeled
 
+[Digital lab board documentation](https://raw.githubusercontent.com/podonoghue/CPLD_Breakout/master/CPLD_Breakout.png)  
+
 [Documentation](CPLD_Breakout.pdf)
