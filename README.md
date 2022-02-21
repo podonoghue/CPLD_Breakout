@@ -16,4 +16,4 @@ Features:
 
 ![An image](https://raw.githubusercontent.com/podonoghue/CPLD_Breakout/master/CPLD_Breakout.png "Board Image")
 
-[Documentation](CPLD_Breakout.pdf)
+[Documentation](https://raw.githubusercontent.com/podonoghue/CPLD_Breakout/master/CPLD_Breakout.pdf)
